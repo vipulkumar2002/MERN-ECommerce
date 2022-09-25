@@ -10,7 +10,7 @@
 
 1. #### clone the repo using this command
    ```bash
-   git clone https://github.com/vipulkumar2002/MERN_BRAND-E-Commerce-
+   git clone https://github.com/vipulkumar2002/MERN-ECommerce.git
    ```
 2. #### install npm packages
    1. install backend packages
